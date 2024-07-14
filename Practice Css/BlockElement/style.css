@@ -1,0 +1,39 @@
+#we{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    border: solid 3px;
+    border-color: rgb(40, 37, 7);
+   display: inline; 
+   /* When a block element is set to display as an inline element, the padding on the top and bottom will no longer 
+   affect the layout, effectively making them vanish. to set t*/
+   display: inline-block; 
+
+}
+#ass{
+    background-color: rgb(206, 133, 74);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    border: solid 3px;
+    border-color: rgb(253, 9, 9);
+   display: inline; 
+   display: inline-block; 
+}
+ 
+#well{
+    background-color: rgb(134, 98, 178);
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    border: solid 3px;
+    border-color: black;
+    display: inline;
+     display: inline-block; /*To set the padding on the top and bottom for an element that behaves like an inline 
+    element, we can use the inline-block display property. */
+} 
+ 

@@ -20,6 +20,8 @@ p{
     color: rgb(19, 141, 96);
     height: 50px;
     width: 300px;
+    display: inline;
+    
    
  }
  #we {
@@ -27,3 +29,4 @@ p{
     background-color: rgb(150, 206, 206);
 
  }
+  
