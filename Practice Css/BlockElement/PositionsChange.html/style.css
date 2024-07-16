@@ -1,0 +1,36 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    display: inline-block ;
+}
+#box1{
+    background-color: pink;
+    position:static;
+    top: 20px;
+     
+}
+#box2{
+    background-color: aqua;
+    position: relative;
+    top: 100px ;
+    right : 100px;
+   
+   
+}
+#box3{
+    background-color: rgb(203, 88, 35);
+     
+     position:relative;
+     top : 230px;
+     right:200px
+     
+}
+
+#box4{
+    background-color: rgb(35, 192, 116);
+    position:relative;
+     top : 360px;
+     right:290px
+}
+ 
