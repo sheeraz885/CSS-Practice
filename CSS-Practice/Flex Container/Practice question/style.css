@@ -1,0 +1,36 @@
+ 
+ul{
+  background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+ 
+}
+a{
+  text-decoration: none;
+  color: white;
+   
+}
+ 
+li{
+ 
+    list-style-type: none;
+ 
+}
+.outer{
+  height: 300px;
+  width: 300px;
+  background-color:bisque  ;
+  margin-left:400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner{
+  height: 100px;
+  width: 100px;
+  background-color : whitesmoke  ;
+  border: 2px solid black;
+  
+}
